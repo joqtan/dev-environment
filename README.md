@@ -20,7 +20,7 @@ npm build
 npm build:prod
 ```
 
-all the installations individually will appear below, the configuration of the dependencies was set on March 25, 2021
+# all the installations individually will appear below, the configuration of the dependencies was set on March 25, 2021
 
 ```
 npm init
