@@ -26,13 +26,9 @@ npm build:prod
 npm init
 ```
 
-and fill the information needed
-
 ```
 npm install webpack webpack-cli --save-dev
 ```
-
-create file webpack.config.js
 
 ```
 npm install html-loader html-webpack-plugin --save-dev
