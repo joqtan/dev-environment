@@ -20,19 +20,15 @@ npm build
 npm build:prod
 ```
 
-all the installations individually will appear below, the configuration of the dependencies was set on March 25, 2021
+# all the installations individually will appear below, the configuration of the dependencies was set on March 25, 2021
 
 ```
 npm init
 ```
 
-and fill the information needed
-
 ```
 npm install webpack webpack-cli --save-dev
 ```
-
-create file webpack.config.js
 
 ```
 npm install html-loader html-webpack-plugin --save-dev
